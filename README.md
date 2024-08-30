@@ -45,9 +45,9 @@ Open Terminal in "API" folder:
 - 4.dotnet run
 
 Open Terminal in "client" folder:
-- 1. npm install
-- 2. ng serve
-- 3. Start on: https://localhost:4200/
+- 1.npm install
+- 2.ng serve
+- 3.Start on: https://localhost:4200/
 
 ## Photos
 
