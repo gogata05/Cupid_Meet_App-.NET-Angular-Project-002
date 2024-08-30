@@ -4,7 +4,7 @@ Cupid_Meet_App-.NET-Angular-Project-002
 
 ## Introduction
 
-Cupid_Meet_App is application for meeting people
+Cupid Meet App is application for meeting people
 
 ## Features
 
@@ -17,10 +17,12 @@ Cupid_Meet_App is application for meeting people
 
 ## How to use?
 
-- 0.Download the repository, extract it to folder and open with Visual Studio Code
+- 0. Download the repository, extract it to folder and open with Visual Studio Code
 
 Open Terminal in "API" folder:
-2.Add appsetting.json with:
+
+2. Add appsetting.json with:
+
 ```
 {
   "Logging": {
@@ -39,13 +41,17 @@ Open Terminal in "API" folder:
 }
 ```
 
-3.Open "MeetApp.sln" with visual studio code
-4.dotnet run
+3. Open "MeetApp.sln" with visual studio code
+  
+4. dotnet run
 
 Open Terminal in "client" folder:
-1.npm install
-2.ng serve
-3.Start on: https://localhost:4200/
+
+1. npm install
+  
+2. ng serve
+  
+3. Start on: https://localhost:4200/
 
 ## Photos
 
@@ -99,7 +105,7 @@ Edit Profile:
 
 Members i like (2):
 
-![image](/API/wwwroot/assets/Images/13Members%20i%20like%20(2).png)
+![image](</API/wwwroot/assets/Images/13Members%20i%20like%20(2).png>)
 
 Members i like:
 
@@ -132,8 +138,3 @@ Landing Page:
 Register/Login:
 
 ![image](/API/wwwroot/assets/Images/20RegisterLogin.png)
-
-
-
-
-
