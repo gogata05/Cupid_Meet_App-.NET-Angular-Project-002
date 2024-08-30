@@ -17,11 +17,11 @@ Cupid Meet App is application for meeting people
 
 ## How to use?
 
-- 0. Download the repository, extract it to folder and open with Visual Studio Code
+- 0.Download the repository, extract it to folder and open with Visual Studio Code
 
 Open Terminal in "API" folder:
 
-2. Add appsetting.json with:
+- 2.Add appsetting.json with:
 
 ```
 {
@@ -41,17 +41,13 @@ Open Terminal in "API" folder:
 }
 ```
 
-3. Open "MeetApp.sln" with visual studio code
-  
-4. dotnet run
+- 3.Open "MeetApp.sln" with visual studio code
+- 4.dotnet run
 
 Open Terminal in "client" folder:
-
-1. npm install
-  
-2. ng serve
-  
-3. Start on: https://localhost:4200/
+- 1. npm install
+- 2. ng serve
+- 3. Start on: https://localhost:4200/
 
 ## Photos
 
