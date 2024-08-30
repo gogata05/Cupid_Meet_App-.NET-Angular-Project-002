@@ -21,7 +21,7 @@ Cupid_Meet_App is application for meeting people
 
 Open Terminal in "API" folder:
 2.Add appsetting.json with:
-``
+```
 {
   "Logging": {
     "LogLevel": {
@@ -37,7 +37,7 @@ Open Terminal in "API" folder:
   },
   "AllowedHosts": "*"
 }
-``
+```
 
 3.Open "MeetApp.sln" with visual studio code
 4.dotnet run
