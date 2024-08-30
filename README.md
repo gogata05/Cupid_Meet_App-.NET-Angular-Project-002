@@ -41,8 +41,7 @@ Open Terminal in "API" folder:
 }
 ```
 
-- 2.Open "MeetApp.sln" with visual studio code
-- 3.dotnet run
+- 2.dotnet run
 
 Open Terminal in "client" folder:
 
