@@ -1,10 +1,10 @@
-Cupid_Meet_App-.NET-Angular-Project-002
+Meet_App-.NET-Angular-Project-002
 
-# Cupid_Meet_App
+# Meet_App
 
 ## Introduction
 
-Cupid Meet App is application for meeting people
+Meet App is application for meeting people
 
 ## Features
 
